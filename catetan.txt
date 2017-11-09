@@ -1,0 +1,10 @@
+
+notasi pada db
+0 = golput
+1 = kandidat 1
+2 = kandidat 2
+3 = kandidat 4
+4 = jumlah tidak memilih (jumlah user - (0+1+2+3))
+5 = jumlah user
+
+ada yang harus dirubah dari function/function.php terkait table pertps
